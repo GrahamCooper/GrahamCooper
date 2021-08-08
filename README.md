@@ -1,2 +1,2 @@
-How do you help JS errors?
+How do you help JS errors?\
 You console them!
